@@ -1,0 +1,3 @@
+id attribute is always unique for every div or span or anything.
+
+class attribute will be same for one or more.
